@@ -16,7 +16,25 @@
         "forms", 
         "membership", 
         "Elements", 
-        "inptFirstName.json"
+        "inptName.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "membership", 
+        "Elements", 
+        "btSubmit.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "membership", 
+        "Elements", 
+        "lblSubmit.json"
       ]
     }
   ], 
